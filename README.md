@@ -1,4 +1,4 @@
-![](https://i.imgur.com/nFpNQX6.jpeg)
+![](https://i.imgur.com/TPhtQkv.jpeg)
 
 - 🔭 I’m currently working on my Strive School capstone project [sandoRaw](https://sandoraw.vercel.app)
 
