@@ -1,4 +1,4 @@
-![](https://i.imgur.com/TPhtQkv.jpeg)
+<a href="https://www.linkedin.com/in/purplekot/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/TPhtQkv.jpeg" alt="linkedin"/> </a>
 
 - 🔭 I’m currently working on my Strive School capstone project [sandoRaw](https://sandoraw.vercel.app)
 
