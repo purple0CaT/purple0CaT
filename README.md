@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Istvan</h1>
-<h3 align="center">FullStack Developer and Photographer</h3>
+![](https://i.imgur.com/7tB36DR.jpeg)
 
 - 🔭 I’m currently working on my Strive School capstone project [sandoRaw](https://sandoraw.vercel.app)
 
