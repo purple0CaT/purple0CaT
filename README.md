@@ -4,13 +4,6 @@
 
 - 📫 How to reach me **ian.shtern@gmail.com**
 
-<p align="left">
-<a href="https://linkedin.com/in/purplekot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purplekot" height="30" width="40" /></a>
-<a href="https://instagram.com/_sandoraw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandoraw_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucgsrqsvm25e7ivurjobzm4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgsrqsvm25e7ivurjobzm4g" height="30" width="40" /></a>
-</p>
-
-
 ## 🛠 Skills
 <p align="left" >  
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
