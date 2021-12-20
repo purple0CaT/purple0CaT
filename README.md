@@ -34,7 +34,7 @@
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purplekot/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sandoraw_/)
-[![youtube](https://img.shields.io/badge/youtube-d60028?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgSrqsVm25E7ivuRJobzm4g)
+[![youtube](https://img.shields.io/badge/youtube-d60028?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgSrqsVm25E7ivuRJobzm4g/featured)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=purple0cat&show_icons=true&locale=en" alt="purple0cat" /></p>
 
