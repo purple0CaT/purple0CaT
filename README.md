@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/purplekot/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/TPhtQkv.jpeg" alt="linkedin"/> </a>
 
-- 🔭 I’m currently working on my Strive School capstone project [sandoRaw](https://sandoraw.vercel.app)
+- 🔭 I’m currently improving my project [sandoRaw](https://sandoraw.vercel.app), and learning Next.js [click](https://github.com/purple0CaT/next-test)
 
 - 📫 How to reach me **ian.shtern@gmail.com**
 
