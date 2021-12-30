@@ -1,8 +1,9 @@
 <a href="https://www.linkedin.com/in/purplekot/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/TPhtQkv.jpeg" alt="linkedin"/> </a>
 
-- 🔭 I’m currently improving my project [sandoRaw](https://sandoraw.vercel.app), studying Next.js [click](https://github.com/purple0CaT/next-test) and refactoring [m7d10](https://github.com/purple0CaT/m7d10) into [weather-next](https://github.com/purple0CaT/weather-next)
+- 🔭 I’m currently improving my project [sandoRaw](https://sandoraw.vercel.app), studying Next.js [X](https://github.com/purple0CaT/next-test), and refactoring [weather (react)](https://weatherapp-liard.vercel.app/) => [weather (next.js)](https://click-a-weather.vercel.app/)
 
-- 📫 How to reach me **ian.shtern@gmail.com**
+- 📫 How to reach me **ian.shtern@gmail.com** or [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purplekot/)
+
 
 ## 🛠 Skills
 <p align="left" >  
