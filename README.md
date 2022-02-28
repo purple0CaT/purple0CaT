@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/purplekot/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/TPhtQkv.jpeg" alt="linkedin"/> </a>
 
-- 🔭 I’m currently studying Firebase and implementing it into my [Portfolio](https://istvan-sandor.vercel.app) site.
+- 🔭 I’m currently studying Nest/Vue and implementing it into my [Use Api](https://use-api.vercel.app) site.
 - 📫 Reach me by **ian.shtern@gmail.com** or [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purplekot/)
 
 
