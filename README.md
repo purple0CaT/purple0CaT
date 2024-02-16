@@ -37,7 +37,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sandoraw_/)
 [![youtube](https://img.shields.io/badge/youtube-d60028?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgSrqsVm25E7ivuRJobzm4g/featured)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purple0cat&show_icons=true&locale=en&hide_progress=false&layout=compact&theme=dracula" alt="purple0cat" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purple0cat&show_icons=true&locale=en&hide_progress=true&layout=compact&theme=dracula" alt="purple0cat" />
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=purple0cat&show_icons=true&locale=en" alt="purple0cat" /></p> -->
 
 
